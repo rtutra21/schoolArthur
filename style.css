@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: whitesmoke;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background: white;
+}
+
+th, td {
+    border: 1px solid grey;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: black;
+    color: white;
+}
+
+.btn {
+    display: inline-grid;
+    padding: 5px 10px;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.btn-delete {
+    background-color: red;
+}
+
+.btn-submit {
+    background-color: blue;
+}
+
+form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: flex-start;
+    background: white;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.24);
+}
+
+.form-delete {
+    padding: unset;
+    justify-content: center;
+    box-shadow: none;
+}
+
+select, input, button {
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+}
+
