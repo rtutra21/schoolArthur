@@ -1,7 +1,7 @@
 <?php
 
-require_once "DataBase.php";
-require_once "Schedule.php";
+require_once "../models/DataBase.php";
+require_once "../models/Schedule.php";
 
 $db = new DataBase("localhost", "root", "", "schoolArthur");
 
@@ -14,7 +14,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" AND isset($_POST["schedule_id"]))
         $_POST["schedule_id"]
     );
 
-    header("location: index.php");
+    header("location: ../index.php");
 }
 
 
