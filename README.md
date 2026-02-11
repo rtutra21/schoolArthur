@@ -17,7 +17,6 @@
 ## Скриншот
 ### Главная страница
 
-![main](screenshots/main.png)
 <img src="screenshots/main.png" alt="Главная страница" width="600">
 
 ## Установка и запуск
