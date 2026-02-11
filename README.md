@@ -14,6 +14,11 @@
 - MySQL (структура БД + CRUD операции)
 - HTML/CSS (интерфейс)
 
+## Скриншот
+### Главная страница
+
+![main](screenshots/main.png)
+
 ## Установка и запуск
 1. Клонировать репозиторий: `git clone https://github.com/rtutra21/schoolArthur.git`
 2. Создать базу данных MySQL (название, таблицы описаны в `db.sql`)
