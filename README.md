@@ -18,6 +18,7 @@
 ### Главная страница
 
 ![main](screenshots/main.png)
+<img src="screenshots/main.png" alt="Главная страница" width="600">
 
 ## Установка и запуск
 1. Клонировать репозиторий: `git clone https://github.com/rtutra21/schoolArthur.git`
