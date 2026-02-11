@@ -15,9 +15,11 @@
 - HTML/CSS (интерфейс)
 
 ## Скриншот
-### Главная страница
-
-<img src="screenshots/main.png" alt="Главная страница" width="600">
+<p align="center">
+  <img src="screenshots/main.png" alt="Главная страница" width="600">
+  <br>
+  <em>Главная страница приложения</em>
+</p>
 
 ## Установка и запуск
 1. Клонировать репозиторий: `git clone https://github.com/rtutra21/schoolArthur.git`
