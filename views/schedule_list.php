@@ -1,6 +1,5 @@
 <?php
-require_once "models/DataBase.php";
-require_once "models/Schedule.php";
+
 $db = new Database("localhost", "root", "", "schoolArthur");
 ?>
 <!DOCTYPE html>
